@@ -22,7 +22,7 @@ This repository contains implementations of various data structures in JavaScrip
 ## Installation
 To use this repository, clone it to your local machine using the following command:
 ```
-git clone https://github.com/yourusername/datastructures-js.git
+git clone https://github.com/nandhuknair/Datastructure.git
 ```
 
 ##THANKYOU 💗
